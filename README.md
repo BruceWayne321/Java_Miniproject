@@ -12,16 +12,19 @@ To decrypt, we again convert the encrypted image into byte-array and XOR it with
 ---
 
 To test/run it yourself:
--Clone the repo
--Make sure you have java installed on your machine
--Run the main file 
-  <code>javac 'FileName.java'</code> //to compile
-  <code>java 'FileName.java'</code>  //to run
--Enter the key(a number)
--Browse and select the image
--For Encrypting
-  -Click on Encrypt
--For decrypting
-  -Click on Decrypt
+- Clone the repo
+- Make sure you have java installed on your machine
+- Run the main file 
+
+  to compile - <code>javac 'FileName.java'</code> 
+  
+  to run - <code>java 'FileName.java'</code>  
+  
+- Enter the key(a number)
+- Browse and select the image
+- For Encrypting
+  - Click on Encrypt
+- For decrypting
+  - Click on Decrypt
 
 ---
